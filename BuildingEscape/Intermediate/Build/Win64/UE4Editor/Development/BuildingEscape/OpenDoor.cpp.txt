@@ -1,3 +1,5 @@
 D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Definitions.BuildingEscape.h
 D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Source\BuildingEscape\OpenDoor.h
+D:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/TriggerVolume.h
+D:\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerVolume.generated.h
 D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Inc\BuildingEscape\OpenDoor.generated.h

@@ -1,7 +1,7 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Game Devlopment\Unreal Games\BuildingEscape).
   Parsing headers for BuildingEscapeEditor
     Running UnrealHeaderTool "D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for BuildingEscapeEditor in 9.8018921 seconds
+  Reflection code generated for BuildingEscapeEditor in 6.7604945 seconds
   Building BuildingEscapeEditor...
   Using Visual Studio 2019 14.24.28314 toolchain (D:\Microsoft Visual Studio\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   [Upgrade]
@@ -11,7 +11,13 @@
   [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
   [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
   [Upgrade]
-  Building 1 action with 4 processes...
-    [1/1] BuildingEscapeEditor.target
-  Total time in Parallel executor: 0.38 seconds
-  Total execution time: 11.78 seconds
+  Building 5 actions with 4 processes...
+    [1/5] OpenDoor.cpp
+    [2/5] OpenDoor.gen.cpp
+    [3/5] UE4Editor-BuildingEscape-0013.lib
+       Creating library D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0013.lib and object D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0013.exp
+    [4/5] UE4Editor-BuildingEscape-0013.dll
+       Creating library D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0013.suppressed.lib and object D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0013.suppressed.exp
+    [5/5] BuildingEscapeEditor.target
+  Total time in Parallel executor: 71.41 seconds
+  Total execution time: 79.79 seconds

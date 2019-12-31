@@ -1,0 +1,1293 @@
+﻿Log file open, 12/27/19 23:17:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BuildingEscape
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 73.344901
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10570792
+LogInit: Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 7 (Service Pack 1), CPU: Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1650
+LogInit: Compiled (64-bit): Dec  6 2019 02:05:13
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.27-17.48.08:305][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.27-17.48.08:305][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.27-17.48.08:326][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.27-17.48.08:326][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.27-17.48.08:326][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.27-17.48.08:326][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.27-17.48.08:326][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.27-17.48.08:326][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.27-17.48.08:326][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.27-17.48.08:326][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.27-17.48.08:326][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.27-17.48.08:326][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.27-17.48.08:326][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.27-17.48.08:327][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.27-17.48.08:327][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.27-17.48.08:556][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.27-17.48.08:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2019.12.27-17.48.08:557][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2019.12.27-17.48.08:582][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.27-17.48.08:582][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.27-17.48.09:055][  0]LogHAL: Display: Platform has ~ 8 GB [8448454656 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.27-17.48.09:055][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.27-17.48.09:055][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.09:055][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.27-17.48.09:055][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.27-17.48.09:055][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.09:055][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.27-17.48.09:055][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.09:055][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.27-17.48.09:055][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.27-17.48.09:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.27-17.48.09:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.27-17.48.09:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.27-17.48.09:055][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.27-17.48.09:055][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2019.12.27-17.48.09:056][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.27-17.48.09:093][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.27-17.48.09:093][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.27-17.48.09:093][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2019.12.27-17.48.09:299][  0]LogInit: Computer: SWATI-PC
+[2019.12.27-17.48.09:299][  0]LogInit: User: Swati
+[2019.12.27-17.48.09:299][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.12.27-17.48.09:299][  0]LogInit: High frequency timer resolution =3.507548 MHz
+[2019.12.27-17.48.09:299][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.27-17.48.09:299][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.27-17.48.09:299][  0]LogMemory: Process Physical Memory: 104.18 MB used, 104.18 MB peak
+[2019.12.27-17.48.09:299][  0]LogMemory: Process Virtual Memory: 102.65 MB used, 102.65 MB peak
+[2019.12.27-17.48.09:299][  0]LogMemory: Physical Memory: 3918.84 MB used,  4138.23 MB free, 8057.07 MB total
+[2019.12.27-17.48.09:299][  0]LogMemory: Virtual Memory: 1001.91 MB used,  8387606.00 MB free, 8388608.00 MB total
+[2019.12.27-17.48.09:640][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.27-17.48.14:202][  0]LogInit: Using OS detected language (en-US).
+[2019.12.27-17.48.14:202][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.27-17.48.14:379][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.27-17.48.16:661][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.12.27-17.48.16:661][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.12.27-17.48.16:661][  0]LogInit: Setting process to DPI aware
+[2019.12.27-17.48.18:465][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.27-17.48.18:465][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.27-17.48.20:461][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.27-17.48.20:461][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2019.12.27-17.48.20:461][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2019.12.27-17.48.20:461][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.27-17.48.20:535][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2019.12.27-17.48.20:535][  0]LogD3D11RHI:       3950/0/3772 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.27-17.48.21:656][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4400' (Feature Level 11_0)
+[2019.12.27-17.48.21:657][  0]LogD3D11RHI:       192/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.27-17.48.21:657][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.27-17.48.21:857][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.27-17.48.21:928][  0]LogD3D11RHI:     GPU DeviceId: 0x1f82 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.27-17.48.21:928][  0]LogWindows: EnumDisplayDevices:
+[2019.12.27-17.48.21:928][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650' (P:1 D:1)
+[2019.12.27-17.48.21:928][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2019.12.27-17.48.21:928][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2019.12.27-17.48.21:928][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2019.12.27-17.48.21:928][  0]LogWindows:    4. 'Intel(R) HD Graphics 4400' (P:0 D:0)
+[2019.12.27-17.48.21:928][  0]LogWindows:    5. 'Intel(R) HD Graphics 4400' (P:0 D:0)
+[2019.12.27-17.48.21:929][  0]LogWindows:    6. 'Intel(R) HD Graphics 4400' (P:0 D:0)
+[2019.12.27-17.48.21:929][  0]LogWindows:    7. 'RDPDD Chained DD' (P:0 D:0)
+[2019.12.27-17.48.21:929][  0]LogWindows:    8. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.12.27-17.48.21:929][  0]LogWindows:    9. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.12.27-17.48.21:929][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.12.27-17.48.21:929][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2019.12.27-17.48.21:929][  0]LogD3D11RHI:   Driver Version: 441.08 (internal:26.21.14.4108, unified:441.08)
+[2019.12.27-17.48.21:929][  0]LogD3D11RHI:      Driver Date: 10-22-2019
+[2019.12.27-17.48.21:929][  0]LogRHI: Texture pool is 2765 MB (70% of 3950 MB)
+[2019.12.27-17.48.22:050][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2019.12.27-17.48.22:101][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.27-17.48.22:707][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.12.27-17.48.44:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2019.12.27-17.48.44:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2019.12.27-17.48.44:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2019.12.27-17.48.44:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2019.12.27-17.48.45:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.27-17.48.45:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2019.12.27-17.48.45:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2019.12.27-17.48.45:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2019.12.27-17.48.45:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2019.12.27-17.48.45:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2019.12.27-17.48.45:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2019.12.27-17.48.45:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2019.12.27-17.48.45:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2019.12.27-17.48.45:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2019.12.27-17.48.46:025][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.27-17.48.46:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2019.12.27-17.48.46:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2019.12.27-17.48.46:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2019.12.27-17.48.46:354][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.27-17.48.46:856][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.27-17.48.49:905][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Intermediate/Shaders/WorkingDirectory/5196/).
+[2019.12.27-17.48.49:926][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Swati/AppData/Local/Temp/UnrealShaderWorkingDir/008C13FE402828466E67258C5A880960/'.
+[2019.12.27-17.48.50:002][  0]LogXGEController: Cleaning working directory: C:/Users/Swati/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.27-17.48.50:002][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.27-17.48.50:002][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.27-17.48.50:002][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.27-17.48.59:161][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.27-17.49.00:960][  0]LogDerivedDataCache: Loaded boot cache 1.78s 78MB C:/Users/Swati/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2019.12.27-17.49.00:960][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Swati/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2019.12.27-17.49.00:960][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.27-17.49.00:960][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.27-17.49.00:960][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.27-17.49.00:960][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.27-17.49.01:276][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.27-17.49.01:277][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.27-17.49.01:277][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.27-17.49.01:327][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Swati/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.27-17.49.01:327][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.27-17.49.01:327][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.27-17.49.01:522][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.27-17.49.01:870][  0]LogSlate: Using FreeType 2.10.0
+[2019.12.27-17.49.02:188][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.27-17.49.05:337][  0]LogAssetRegistry: FAssetRegistry took 0.0235 seconds to start up
+[2019.12.27-17.49.16:131][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.27-17.49.20:395][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Intermediate/CachedAssetRegistry.bin
+[2019.12.27-17.49.20:395][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.27-17.49.20:395][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.27-17.49.20:395][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.27-17.49.20:395][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.27-17.49.20:395][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.27-17.49.21:341][  0]LogNetVersion: BuildingEscape 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2745654942)
+[2019.12.27-17.49.38:562][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.061550 seconds
+[2019.12.27-17.49.38:585][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2019.12.27-17.49.38:585][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2019.12.27-17.49.38:585][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.27-17.49.45:120][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.27-17.49.45:148][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.27-17.49.45:999][  0]SourceControl: Source control is disabled
+[2019.12.27-17.49.46:017][  0]SourceControl: Source control is disabled
+[2019.12.27-17.49.46:281][  0]SourceControl: Source control is disabled
+[2019.12.27-17.49.46:302][  0]SourceControl: Source control is disabled
+[2019.12.27-17.49.46:354][  0]SourceControl: Source control is disabled
+[2019.12.27-17.49.48:106][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.27-17.49.48:312][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2019.12.27-17.49.48:312][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2019.12.27-17.49.49:121][  0]LogOcInput: OculusInput pre-init called
+[2019.12.27-17.49.49:275][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.27-17.49.49:275][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.27-17.49.50:852][  0]LogEngine: Initializing Engine...
+[2019.12.27-17.49.50:931][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.27-17.49.51:045][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.037 s
+[2019.12.27-17.49.52:086][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.27-17.49.53:162][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.27-17.49.53:524][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.27-17.49.53:524][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.27-17.49.53:524][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.27-17.49.53:524][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.27-17.49.53:524][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.27-17.49.53:524][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.27-17.49.53:524][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.27-17.49.53:524][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.27-17.49.53:525][  0]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.27-17.49.53:525][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.27-17.49.53:574][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.27-17.49.53:574][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2019.12.27-17.49.53:574][  0]LogAudioMixer: Display: Is Default: Yes
+[2019.12.27-17.49.53:574][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.27-17.49.53:574][  0]LogAudioMixer: Display: Channel Count Used: 6
+[2019.12.27-17.49.53:574][  0]LogAudioMixer: Display: Device Channel Count: 6
+[2019.12.27-17.49.53:574][  0]LogAudioMixer: Display: Channel Order:
+[2019.12.27-17.49.53:574][  0]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.27-17.49.53:574][  0]LogAudioMixer: Display: 1: FrontRight
+[2019.12.27-17.49.53:574][  0]LogAudioMixer: Display: 2: FrontCenter
+[2019.12.27-17.49.53:574][  0]LogAudioMixer: Display: 3: LowFrequency
+[2019.12.27-17.49.53:574][  0]LogAudioMixer: Display: 4: BackLeft
+[2019.12.27-17.49.53:574][  0]LogAudioMixer: Display: 5: BackRight
+[2019.12.27-17.49.53:850][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2019.12.27-17.49.53:888][  0]LogInit: FAudioDevice initialized.
+[2019.12.27-17.49.53:888][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.27-17.49.54:844][  0]LogDerivedDataCache: Saved boot cache 0.96s 78MB C:/Users/Swati/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2019.12.27-17.49.54:845][  0]LogInit: Texture streaming: Enabled
+[2019.12.27-17.49.54:853][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.27-17.49.54:853][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.27-17.49.54:855][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.27-17.49.55:274][  0]LogInit: Transaction tracking system initialized
+[2019.12.27-17.49.55:792][  0]BlueprintLog: New page: Editor Load
+[2019.12.27-17.49.57:845][  0]LocalizationService: Localization service is disabled
+[2019.12.27-17.50.01:797][  0]LogFileCache: Scanning file cache for directory 'D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Content/' took 0.02s
+[2019.12.27-17.50.01:798][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.27-17.50.01:798][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.27-17.50.07:911][  0]SourceControl: Source control is disabled
+[2019.12.27-17.50.07:983][  0]Cmd: MAP LOAD FILE="../../../../../Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Content/Maps/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.27-17.50.07:994][  0]LightingResults: New page: Lighting Build
+[2019.12.27-17.50.08:077][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-17.50.08:110][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.27-17.50.08:118][  0]MapCheck: New page: Map Check
+[2019.12.27-17.50.08:118][  0]LightingResults: New page: Lighting Build
+[2019.12.27-17.50.08:518][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.12.27-17.50.12:602][  0]LogAIModule: Creating AISystem for world Level_01
+[2019.12.27-17.50.13:555][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.27-17.50.14:217][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.12.27-17.50.14:217][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.27-17.50.14:278][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 28.914ms to complete.
+[2019.12.27-17.50.14:278][  0]LogFileHelpers: Loading map 'Level_01' took 6.344
+[2019.12.27-17.50.17:360][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-17.50.17:416][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-17.50.17:429][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-17.50.17:435][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-17.50.17:629][  0]LogCollectionManager: Loaded 0 collections in 0.001706 seconds
+[2019.12.27-17.50.18:007][  0]LogFileCache: Scanning file cache for directory 'D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Collections/' took 0.00s
+[2019.12.27-17.50.18:007][  0]LogFileCache: Scanning file cache for directory 'D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Content/Developers/Swati/Collections/' took 0.00s
+[2019.12.27-17.50.18:007][  0]LogFileCache: Scanning file cache for directory 'D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Content/Collections/' took 0.00s
+[2019.12.27-17.50.18:007][  0]LogContentBrowser: Native class hierarchy populated in 0.0416 seconds. Added 3019 classes and 719 folders.
+[2019.12.27-17.50.18:130][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.27-17.50.19:255][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.27-17.50.19:504][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2019.12.27-17.50.19:822][  0]LogSlate: Took 0.119001 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.27-17.50.19:894][  0]LogSlate: Took 0.039765 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.27-17.50.19:927][  0]LogSlate: Took 0.018379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.27-17.50.19:985][  0]LogSlate: Took 0.013049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.12.27-17.50.20:494][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.27-17.50.21:630][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.27-17.50.21:630][  0]LogLoad: (Engine Initialization) Total time: 266.50 seconds
+[2019.12.27-17.50.21:630][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.27-17.50.22:049][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.27-17.50.23:599][ 19]LogAssetRegistry: Asset discovery search completed in 78.2652 seconds
+[2019.12.27-17.50.23:643][ 19]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000019 seconds (updated 0 objects)
+[2019.12.27-17.50.36:458][314]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.12.27-17.50.36:484][314]Candidate modules for hot reload:
+[2019.12.27-17.50.36:484][314]  BuildingEscape
+[2019.12.27-17.50.36:484][314]Launching UnrealBuildTool... [D:/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,1165 Win64 Development -TargetType=Editor -Project="D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/BuildingEscape.uproject" "D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2019.12.27-17.50.36:485][314]Warning: Starting HotReload took  0.1s.
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: New page: Compilation - Dec 28, 2019, 4:52:49 AM
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Game Devlopment\Unreal Games\BuildingEscape).
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.12.27-17.52.50:028][226]CompilerResultsLog:   Running UnrealHeaderTool "D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 40.3267259 seconds
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: Building BuildingEscapeEditor...
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (D:\Microsoft Visual Studio\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: [Upgrade]
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: [Upgrade]
+[2019.12.27-17.52.50:028][226]CompilerResultsLog: Building 4 actions with 4 processes...
+[2019.12.27-17.52.50:028][226]CompilerResultsLog:   [1/4] Grabber.cpp
+[2019.12.27-17.52.50:028][226]CompilerResultsLog:    D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Source\BuildingEscape\Grabber.cpp(53) : error C3861: 'Text': identifier not found
+[2019.12.27-17.52.50:028][226]CompilerResultsLog:    D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Source\BuildingEscape\Grabber.cpp(53) : error C2664: 'FCollisionQueryParams::FCollisionQueryParams(FCollisionQueryParams &&)': cannot convert argument 1 from 'bool' to 'FName'
+[2019.12.27-17.52.50:028][226]CompilerResultsLog:   D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Source\BuildingEscape\Grabber.cpp(53): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+[2019.12.27-17.52.50:028][226]CompilerResultsLog:   D:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Public\CollisionQueryParams.h(179): note: see declaration of 'FCollisionQueryParams::FCollisionQueryParams'
+[2019.12.27-17.52.50:028][226]LogMainFrame: MainFrame: Module compiling took 133.570 seconds
+[2019.12.27-17.52.50:029][226]Warning: HotReload failed, recompile failed
+[2019.12.27-17.55.45:130][663]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.04.25:143][217]LogSlate: Window 'Message Log' being destroyed
+[2019.12.27-18.04.25:147][217]LogSlate: Window 'Message Log' being destroyed
+[2019.12.27-18.04.27:883][317]Candidate modules for hot reload:
+[2019.12.27-18.04.27:883][317]  BuildingEscape
+[2019.12.27-18.04.27:883][317]Launching UnrealBuildTool... [D:/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,2013 Win64 Development -TargetType=Editor -Project="D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/BuildingEscape.uproject" "D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2019.12.27-18.04.27:903][317]Warning: Starting HotReload took  0.3s.
+[2019.12.27-18.07.42:084][508]CompilerResultsLog: New page: Compilation - Dec 28, 2019, 5:07:42 AM
+[2019.12.27-18.07.42:084][508]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Game Devlopment\Unreal Games\BuildingEscape).
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.12.27-18.07.42:085][508]CompilerResultsLog:   Running UnrealHeaderTool "D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 38.1360654 seconds
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: Building BuildingEscapeEditor...
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (D:\Microsoft Visual Studio\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: [Upgrade]
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: [Upgrade]
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: Building 4 actions with 4 processes...
+[2019.12.27-18.07.42:085][508]CompilerResultsLog:   [1/4] Grabber.cpp
+[2019.12.27-18.07.42:085][508]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-2013.lib
+[2019.12.27-18.07.42:085][508]CompilerResultsLog:      Creating library D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2013.lib and object D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2013.exp
+[2019.12.27-18.07.42:085][508]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-2013.dll
+[2019.12.27-18.07.42:085][508]CompilerResultsLog:      Creating library D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2013.suppressed.lib and object D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-2013.suppressed.exp
+[2019.12.27-18.07.42:085][508]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: Total time in Parallel executor: 128.92 seconds
+[2019.12.27-18.07.42:085][508]CompilerResultsLog: Total execution time: 193.45 seconds
+[2019.12.27-18.07.42:085][508]LogMainFrame: MainFrame: Module compiling took 194.202 seconds
+[2019.12.27-18.07.42:111][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.12.27-18.07.42:568][508]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2019.12.27-18.07.42:574][508]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.27-18.07.45:381][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.12.27-18.07.45:431][508]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 3021 classes and 722 folders.
+[2019.12.27-18.07.45:476][508]Display: HotReload took 197.9s.
+[2019.12.27-18.09.46:204][870]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.11.03:411][101]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.11.39:536][209]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.11.52:093][306]Candidate modules for hot reload:
+[2019.12.27-18.11.52:093][306]  BuildingEscape
+[2019.12.27-18.11.52:093][306]Launching UnrealBuildTool... [D:/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,5881 Win64 Development -TargetType=Editor -Project="D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/BuildingEscape.uproject" "D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2019.12.27-18.11.52:122][306]Warning: Starting HotReload took  0.1s.
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: New page: Compilation - Dec 28, 2019, 5:17:17 AM
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Game Devlopment\Unreal Games\BuildingEscape).
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.12.27-18.17.17:895][224]CompilerResultsLog:   Running UnrealHeaderTool "D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 23.2550773 seconds
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: Building BuildingEscapeEditor...
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (D:\Microsoft Visual Studio\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: [Upgrade]
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: [Upgrade]
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: Building 4 actions with 4 processes...
+[2019.12.27-18.17.17:895][224]CompilerResultsLog:   [1/4] Grabber.cpp
+[2019.12.27-18.17.17:895][224]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-5881.lib
+[2019.12.27-18.17.17:895][224]CompilerResultsLog:      Creating library D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5881.lib and object D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5881.exp
+[2019.12.27-18.17.17:895][224]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-5881.dll
+[2019.12.27-18.17.17:895][224]CompilerResultsLog:      Creating library D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5881.suppressed.lib and object D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5881.suppressed.exp
+[2019.12.27-18.17.17:895][224]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: Total time in Parallel executor: 275.42 seconds
+[2019.12.27-18.17.17:895][224]CompilerResultsLog: Total execution time: 323.56 seconds
+[2019.12.27-18.17.17:895][224]LogMainFrame: MainFrame: Module compiling took 325.801 seconds
+[2019.12.27-18.17.17:921][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.12.27-18.17.17:932][224]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2019.12.27-18.17.17:936][224]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.27-18.17.18:027][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.12.27-18.17.18:037][224]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3021 classes and 722 folders.
+[2019.12.27-18.17.18:042][224]Display: HotReload took 326.0s.
+[2019.12.27-18.17.23:842][350]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.27-18.17.24:067][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.27-18.17.24:084][350]PIE: New page: PIE session: Level_01 (Dec 28, 2019, 5:17:24 AM)
+[2019.12.27-18.17.24:221][350]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.27-18.17.24:222][350]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2019.12.27-18.17.24:247][350]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2019.12.27-18.17.24:611][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.364025s)
+[2019.12.27-18.17.24:727][350]LogAIModule: Creating AISystem for world Level_01
+[2019.12.27-18.17.24:756][350]LogPlayLevel: PIE: World Init took: (0.144743s)
+[2019.12.27-18.17.24:768][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.520687s)
+[2019.12.27-18.17.24:798][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.12.27-18.17.24:829][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.27-18.17.24:829][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.27-18.17.24:829][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.27-18.17.24:829][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.27-18.17.24:829][350]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.27-18.17.24:829][350]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.27-18.17.24:830][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.27-18.17.24:830][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.27-18.17.24:830][350]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.27-18.17.24:830][350]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.27-18.17.24:905][350]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.27-18.17.24:905][350]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2019.12.27-18.17.24:905][350]LogAudioMixer: Display: Is Default: Yes
+[2019.12.27-18.17.24:905][350]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.27-18.17.24:905][350]LogAudioMixer: Display: Channel Count Used: 6
+[2019.12.27-18.17.24:905][350]LogAudioMixer: Display: Device Channel Count: 6
+[2019.12.27-18.17.24:905][350]LogAudioMixer: Display: Channel Order:
+[2019.12.27-18.17.24:905][350]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.27-18.17.24:905][350]LogAudioMixer: Display: 1: FrontRight
+[2019.12.27-18.17.24:905][350]LogAudioMixer: Display: 2: FrontCenter
+[2019.12.27-18.17.24:905][350]LogAudioMixer: Display: 3: LowFrequency
+[2019.12.27-18.17.24:905][350]LogAudioMixer: Display: 4: BackLeft
+[2019.12.27-18.17.24:905][350]LogAudioMixer: Display: 5: BackRight
+[2019.12.27-18.17.24:913][350]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2019.12.27-18.17.24:955][350]LogInit: FAudioDevice initialized.
+[2019.12.27-18.17.25:522][350]LogLoad: Game class is 'BuildingEscapeGameModeBase_BP_C'
+[2019.12.27-18.17.26:506][350]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2019.12.27-23.47.26
+[2019.12.27-18.17.26:704][350]LogWorld: Bringing up level for play took: 0.284785
+[2019.12.27-18.17.26:738][350]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.12.27-18.17.28:624][350]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.12.27-18.17.28:901][350]LogTemp: Warning: SM_Chair_2 is at X=350.000 Y=-200.000 Z=20.000 position
+[2019.12.27-18.17.28:901][350]LogTemp: Warning: SM_TableRound_5 is at X=360.000 Y=370.000 Z=20.000 position
+[2019.12.27-18.17.29:281][350]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 5.893
+[2019.12.27-18.17.41:161][418]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:336][419]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:342][420]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:351][421]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:360][422]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:370][423]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:381][424]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:390][425]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:398][426]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:406][427]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:415][428]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:423][429]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:432][430]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:441][431]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:452][432]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:466][433]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:474][434]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:483][435]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:491][436]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:500][437]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:508][438]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:516][439]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:524][440]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:533][441]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:541][442]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:549][443]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:558][444]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:566][445]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:575][446]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:583][447]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:591][448]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:599][449]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:608][450]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:616][451]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:625][452]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:633][453]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:641][454]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:650][455]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:658][456]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:666][457]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:675][458]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:683][459]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:691][460]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:700][461]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:709][462]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:717][463]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:725][464]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:733][465]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:742][466]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:750][467]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:758][468]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:767][469]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:776][470]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:784][471]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:792][472]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:801][473]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:809][474]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:817][475]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:826][476]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:834][477]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:842][478]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:851][479]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:859][480]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:867][481]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:876][482]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:884][483]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:892][484]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:901][485]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:909][486]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:917][487]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:926][488]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:934][489]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:942][490]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:951][491]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:959][492]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:967][493]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:976][494]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:984][495]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.41:992][496]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:001][497]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:009][498]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:017][499]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:026][500]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:034][501]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:042][502]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:051][503]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:059][504]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:067][505]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:076][506]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:084][507]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:092][508]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:101][509]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:109][510]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:117][511]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:126][512]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:134][513]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:143][514]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:151][515]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:159][516]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:168][517]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:176][518]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:184][519]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:192][520]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:201][521]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:209][522]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:217][523]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:226][524]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:234][525]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:242][526]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:251][527]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:259][528]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:267][529]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:276][530]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:284][531]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:293][532]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:301][533]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:309][534]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:317][535]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:326][536]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:334][537]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:342][538]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:351][539]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:359][540]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:367][541]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:376][542]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:384][543]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:393][544]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:401][545]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:409][546]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:417][547]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:426][548]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:434][549]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:443][550]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:451][551]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:459][552]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:468][553]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:476][554]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:484][555]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:493][556]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:501][557]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:509][558]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:517][559]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:526][560]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:534][561]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:543][562]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:551][563]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:559][564]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:568][565]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:576][566]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:584][567]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:593][568]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:601][569]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:609][570]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:618][571]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:626][572]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:634][573]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:643][574]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:651][575]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:660][576]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:668][577]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:676][578]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:684][579]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:693][580]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:701][581]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:710][582]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:718][583]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:726][584]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:735][585]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:743][586]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:751][587]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:760][588]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:768][589]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:776][590]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:784][591]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:793][592]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:801][593]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:809][594]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:818][595]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:826][596]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:834][597]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:843][598]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:851][599]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:860][600]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:868][601]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:876][602]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:884][603]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:893][604]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:901][605]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:910][606]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:918][607]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:926][608]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:934][609]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:943][610]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:951][611]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:959][612]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:968][613]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:976][614]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:984][615]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.42:993][616]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:001][617]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:010][618]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:018][619]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:026][620]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:034][621]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:043][622]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:051][623]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:060][624]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:068][625]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:076][626]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:084][627]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:093][628]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:101][629]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:109][630]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:118][631]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:126][632]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:135][633]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:143][634]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:152][635]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:160][636]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:169][637]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:177][638]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:185][639]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:193][640]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:202][641]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:211][642]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:219][643]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:227][644]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:236][645]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:244][646]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:252][647]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:261][648]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:269][649]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:277][650]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.43:286][651]LogTemp: Warning: I hit on SM_Chair_2
+[2019.12.27-18.17.46:598][ 42]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:606][ 43]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:614][ 44]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:626][ 45]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:636][ 46]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:644][ 47]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:653][ 48]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:764][ 49]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:772][ 50]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:781][ 51]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:789][ 52]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:797][ 53]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:806][ 54]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:814][ 55]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:822][ 56]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:831][ 57]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:839][ 58]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:847][ 59]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:856][ 60]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:864][ 61]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:872][ 62]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:881][ 63]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:889][ 64]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:897][ 65]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:906][ 66]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:914][ 67]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:922][ 68]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:931][ 69]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:939][ 70]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:947][ 71]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:956][ 72]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:964][ 73]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:972][ 74]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:981][ 75]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:989][ 76]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.46:997][ 77]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:006][ 78]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:051][ 79]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:059][ 80]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:067][ 81]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:076][ 82]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:084][ 83]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:092][ 84]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:100][ 85]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:109][ 86]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:117][ 87]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:126][ 88]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:134][ 89]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:142][ 90]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:151][ 91]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:159][ 92]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:167][ 93]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:176][ 94]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:457][ 95]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:465][ 96]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:473][ 97]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:482][ 98]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:490][ 99]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:499][100]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:507][101]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:515][102]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:524][103]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:532][104]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:540][105]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:549][106]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:557][107]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:565][108]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:574][109]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:582][110]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:590][111]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:599][112]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:607][113]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:615][114]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:624][115]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:632][116]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:640][117]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:649][118]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:657][119]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:665][120]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:674][121]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:682][122]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:690][123]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:699][124]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:707][125]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:715][126]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:724][127]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:732][128]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:740][129]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:749][130]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:757][131]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:765][132]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:774][133]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:782][134]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:790][135]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:799][136]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:807][137]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:816][138]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:824][139]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:832][140]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:840][141]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:849][142]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:857][143]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:865][144]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:874][145]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:882][146]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:891][147]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:899][148]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:907][149]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:916][150]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:924][151]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:932][152]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:941][153]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:949][154]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:957][155]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:966][156]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:974][157]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:982][158]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:991][159]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.47:999][160]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:007][161]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:016][162]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:024][163]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:032][164]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:041][165]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:049][166]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:057][167]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:066][168]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:074][169]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:082][170]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:091][171]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:099][172]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:107][173]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:115][174]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:124][175]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:132][176]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:140][177]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:149][178]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:157][179]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:166][180]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:174][181]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:182][182]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:191][183]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:199][184]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:208][185]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:216][186]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:225][187]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:233][188]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:241][189]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:249][190]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:258][191]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:266][192]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:274][193]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:283][194]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:291][195]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:299][196]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:308][197]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:316][198]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:324][199]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:333][200]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:341][201]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:350][202]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:358][203]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:366][204]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:374][205]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:383][206]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:391][207]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:399][208]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:408][209]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:417][210]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:425][211]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:433][212]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:441][213]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:450][214]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:458][215]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:466][216]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:475][217]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:483][218]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:492][219]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:500][220]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:510][221]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:519][222]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:527][223]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:535][224]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:545][225]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:553][226]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:562][227]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:572][228]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:580][229]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:589][230]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:597][231]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:605][232]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:614][233]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:623][234]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:631][235]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.17.48:640][236]LogTemp: Warning: I hit on SM_TableRound_5
+[2019.12.27-18.18.17:945][811]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.27-18.18.17:948][811]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2019.12.27-18.18.17:968][811]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2019.12.27-18.18.18:052][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-18.18.18:052][811]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_01
+[2019.12.27-18.18.18:052][811]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.27-18.18.18:052][811]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-18.18.18:053][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.27-18.18.18:138][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.27-18.18.18:159][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.27-18.18.18:225][811]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.27-18.18.18:267][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-18.18.18:418][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.12.27-18.18.18:504][812]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.27-18.18.47:208][987]LogSlate: Took 0.028307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.27-18.25.12:058][297]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.27.09:182][647]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.27.17:292][671]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.27.56:463][307]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.27-18.28.02:999][347]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DefaultPawn_BP.DefaultPawn_BP
+[2019.12.27-18.28.04:091][347]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.12.27-18.28.08:221][347]LogSlate: Took 0.017901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.27-18.28.22:004][787]LogEditCondition: Error: EditCondition parsing failed: Field name "bSoftConstraint" was not found in class "PhysicsHandleComponent".
+[2019.12.27-18.28.27:983][861]LogSlate: Took 0.013428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.27-18.29.01:958][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.12.27-18.29.01:959][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_01' took 0.091
+[2019.12.27-18.29.01:983][ 14]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/DefaultPawn_BP] ([1] browsable assets)...
+[2019.12.27-18.29.02:041][ 14]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/DefaultPawn_BP.DefaultPawn_BP]
+[2019.12.27-18.29.02:041][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DefaultPawn_BP]
+[2019.12.27-18.29.02:307][ 14]LogSavePackage: Moving '../../../../../Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/DefaultPawn_BP_Auto1F636F3494868CCD63A41519195BC0A5D.tmp' to '../../../../../Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/Autosaves/Game/Blueprints/DefaultPawn_BP_Auto1.uasset'
+[2019.12.27-18.29.02:346][ 14]LogFileHelpers: Auto-saving content packages took 0.387
+[2019.12.27-18.30.48:435][532]BlueprintLog: New page: Compile DefaultPawn_BP
+[2019.12.27-18.30.48:877][532]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2019.12.27-18.30.54:602][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DefaultPawn_BP" FILE="../../../../../Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Content/Blueprints/DefaultPawn_BP.uasset" SILENT=true
+[2019.12.27-18.30.54:615][592]LogSavePackage: Moving '../../../../../Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Saved/DefaultPawn_BPAAA872E148BA1A413AC97795B0312CBC.tmp' to '../../../../../Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Content/Blueprints/DefaultPawn_BP.uasset'
+[2019.12.27-18.30.54:645][592]AssetCheck: New page: Asset Save: DefaultPawn_BP
+[2019.12.27-18.30.54:645][592]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/DefaultPawn_BP.DefaultPawn_BP
+[2019.12.27-18.32.10:340][936]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.32.26:264][983]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.33.58:320][258]LogSlate: Window 'DefaultPawn_BP' being destroyed
+[2019.12.27-18.33.58:322][258]LogSlate: Window 'DefaultPawn_BP' being destroyed
+[2019.12.27-18.33.58:332][258]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-18.33.58:333][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.27-18.34.13:440][723]Candidate modules for hot reload:
+[2019.12.27-18.34.13:440][723]  BuildingEscape
+[2019.12.27-18.34.13:440][723]Launching UnrealBuildTool... [D:/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,3536 Win64 Development -TargetType=Editor -Project="D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/BuildingEscape.uproject" "D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2019.12.27-18.34.13:454][723]Warning: Starting HotReload took  0.1s.
+[2019.12.27-18.35.06:697][ 80]CompilerResultsLog: New page: Compilation - Dec 28, 2019, 5:35:06 AM
+[2019.12.27-18.35.06:697][ 80]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Game Devlopment\Unreal Games\BuildingEscape).
+[2019.12.27-18.35.06:697][ 80]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.12.27-18.35.06:697][ 80]CompilerResultsLog:   Running UnrealHeaderTool "D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.27-18.35.06:698][ 80]CompilerResultsLog: Error: D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Source/BuildingEscape/Grabber.h(8) : Error: #include found after .generated.h file - the .generated.h file should always be the last #include in a header
+[2019.12.27-18.35.06:698][ 80]LogMainFrame: MainFrame: Module compiling took 53.260 seconds
+[2019.12.27-18.35.06:698][ 80]Warning: HotReload failed, recompile failed
+[2019.12.27-18.35.17:023][416]LogVSAccessor: Warning: Couldn't goto line number '8' in 'D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/Source/BuildingEscape/Grabber.h'
+[2019.12.27-18.35.39:975][466]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.35.41:058][469]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.35.41:903][471]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.35.43:665][476]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.35.55:682][512]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.35.58:025][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.35.58:025][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.36.15:464][562]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.36.15:464][562]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.27-18.36.23:055][671]LogSlate: Window 'Message Log' being destroyed
+[2019.12.27-18.36.23:057][671]LogSlate: Window 'Message Log' being destroyed
+[2019.12.27-18.36.32:619][740]Candidate modules for hot reload:
+[2019.12.27-18.36.32:619][740]  BuildingEscape
+[2019.12.27-18.36.32:619][740]Launching UnrealBuildTool... [D:/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,2738 Win64 Development -TargetType=Editor -Project="D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/BuildingEscape.uproject" "D:/Game Devlopment/Unreal Games/BuildingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2019.12.27-18.36.32:638][740]Warning: Starting HotReload took  0.0s.
+[2019.12.27-18.39.04:245][254]CompilerResultsLog: New page: Compilation - Dec 28, 2019, 5:39:04 AM
+[2019.12.27-18.39.04:246][254]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Game Devlopment\Unreal Games\BuildingEscape).
+[2019.12.27-18.39.04:246][254]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.12.27-18.39.04:246][254]CompilerResultsLog:   Running UnrealHeaderTool "D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\BuildingEscape.uproject" "D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.27-18.39.04:246][254]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 8.8126608 seconds
+[2019.12.27-18.39.04:246][254]CompilerResultsLog: Building BuildingEscapeEditor...
+[2019.12.27-18.39.04:246][254]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (D:\Microsoft Visual Studio\VC\Tools\MSVC\14.24.28314) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.27-18.39.04:246][254]CompilerResultsLog: [Upgrade]
+[2019.12.27-18.39.04:246][254]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2019.12.27-18.39.04:246][254]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2019.12.27-18.39.04:246][254]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2019.12.27-18.39.04:246][254]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2019.12.27-18.39.04:246][254]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BuildingEscapeEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2019.12.27-18.39.04:246][254]CompilerResultsLog: [Upgrade]
+[2019.12.27-18.39.04:246][254]CompilerResultsLog: Building 5 actions with 4 processes...
+[2019.12.27-18.39.04:246][254]CompilerResultsLog:   [1/5] Grabber.cpp
+[2019.12.27-18.39.04:246][254]CompilerResultsLog:    D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Source\BuildingEscape\Grabber.cpp(31) : error C2275: 'UPhysicsHandleComponent': illegal use of this type as an expression
+[2019.12.27-18.39.04:246][254]CompilerResultsLog:   D:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsHandleComponent.h(21): note: see declaration of 'UPhysicsHandleComponent'
+[2019.12.27-18.39.04:246][254]CompilerResultsLog:    D:\Game Devlopment\Unreal Games\BuildingEscape\BuildingEscape\Source\BuildingEscape\Grabber.cpp(31) : error C2059: syntax error: ')'
+[2019.12.27-18.39.04:246][254]CompilerResultsLog:   [2/5] Grabber.gen.cpp
+[2019.12.27-18.39.04:246][254]LogMainFrame: MainFrame: Module compiling took 151.626 seconds
+[2019.12.27-18.39.04:246][254]Warning: HotReload failed, recompile failed
+[2019.12.27-18.41.30:742][945]LogSlate: Window 'Message Log' being destroyed
+[2019.12.27-18.41.30:744][945]LogSlate: Window 'Message Log' being destroyed
+[2019.12.27-18.41.31:114][986]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.27-18.41.31:126][986]LogWindows: Windows GetLastError: The operation completed successfully. (0)

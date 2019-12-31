@@ -6,6 +6,9 @@
 #include "Engine/World.h"
 #include "GameFramework/PlayerController.h"
 #include "Runtime/Engine/Classes/Components/ActorComponent.h"
+#include "Components/PrimitiveComponent.h"
+
+#define OUT
 
 // Sets default values for this component's properties
 UOpenDoor::UOpenDoor()
@@ -23,21 +26,23 @@ void UOpenDoor::BeginPlay()
 {
 	Super::BeginPlay();
 
-	ActorThatOpenDoor = GetWorld()->GetFirstPlayerController()->GetPawn();
-
 	//Get the owning actor 
 	Owner = GetOwner();
+
+	if (!PressurePlate) {
+		UE_LOG(LogTemp, Error, TEXT("%s missing Trigger Volume component"), *GetOwner()->GetName());
+	}
 }
 
-void UOpenDoor::OpenDoor()
-{
-	Owner->SetActorRotation(FRotator(0.0f, RotationAngle, 0.0f));
-}
+//void UOpenDoor::OpenDoor()
+//{
+//	//Owner->SetActorRotation(FRotator(0.0f, RotationAngle, 0.0f));
+//}
 
-void UOpenDoor::CloseDoor()
-{
-	Owner->SetActorRotation(FRotator(0.0f, 0.0f, 0.0f));
-}
+//void UOpenDoor::CloseDoor()
+//{
+//	Owner->SetActorRotation(FRotator(0.0f, 0.0f, 0.0f));
+//}
 
 
 // Called every frame
@@ -46,14 +51,31 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
 	//If ActorTahtOpenDoor is in the volume
-	if (PressurePlate -> IsOverlappingActor(ActorThatOpenDoor)) {
-		OpenDoor();
-		LastDoorOpenTime = GetWorld()->GetTimeSeconds();
+	if (GetTotalMassOfActorsOnPlate() > TriggerMass) {
+		OnOpen.Broadcast();
+	}else {
+		OnClose.Broadcast();
+	}
+}
+
+float UOpenDoor::GetTotalMassOfActorsOnPlate()
+{
+	float TotalMass = 0.0f;
+
+	/// Find all the overlapping actors
+	TArray<AActor*> OverlappingActors;
+
+	if (!PressurePlate) { return TotalMass; }
+
+	PressurePlate->GetOverlappingActors(OUT OverlappingActors);
+
+	/// Iterate through them adding their masses
+	for (auto& Actor : OverlappingActors)
+	{
+		TotalMass += Actor->FindComponentByClass<UPrimitiveComponent>()->GetMass();
+		UE_LOG(LogTemp, Warning, TEXT("%s on pressure plate"), *Actor->GetName());
 	}
 
-	//Check if it's time to close door
-	if (GetWorld()->GetTimeSeconds() - LastDoorOpenTime > DoorCloseDelay) {
-		CloseDoor();
-	}
+	return TotalMass;
 }
 

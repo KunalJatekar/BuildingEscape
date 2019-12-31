@@ -24,7 +24,7 @@ void UPositionReport::BeginPlay()
 	FVector Position = GetOwner()->GetTransform().GetLocation();
 	FString OwnerPosition = Position.ToString();
 
-	UE_LOG(LogTemp, Warning, TEXT("%s is at %s position"), *OwnerName, *OwnerPosition);
+	//UE_LOG(LogTemp, Warning, TEXT("%s is at %s position"), *OwnerName, *OwnerPosition);
 	
 }
 
